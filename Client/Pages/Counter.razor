@@ -1,0 +1,13 @@
+﻿@page "/counter"
+
+
+@inherits CounterBase
+
+
+<p> Current count: @currentCount</p>
+<p> Current count: @Singleton.Valor</p>
+<p> Current count: @Transient.Valor</p>
+
+<button class="btn btn-primary" @onclick="IncrementCount">Click me</button>
+
+<button class="btn btn-primary" @onclick="IncrementCountJavaScrip">Click Funtion JS</button>

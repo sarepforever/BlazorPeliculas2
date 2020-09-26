@@ -1,0 +1,8 @@
+D:\Users\SarepDeveloper\Documents\Blazor\BlazorPeliculas\BlazorPeliculas\Shared\bin\Debug\netstandard2.1\BlazorPeliculas.Shared.deps.json
+D:\Users\SarepDeveloper\Documents\Blazor\BlazorPeliculas\BlazorPeliculas\Shared\bin\Debug\netstandard2.1\BlazorPeliculas.Shared.dll
+D:\Users\SarepDeveloper\Documents\Blazor\BlazorPeliculas\BlazorPeliculas\Shared\bin\Debug\netstandard2.1\BlazorPeliculas.Shared.pdb
+D:\Users\SarepDeveloper\Documents\Blazor\BlazorPeliculas\BlazorPeliculas\Shared\obj\Debug\netstandard2.1\BlazorPeliculas.Shared.AssemblyInfoInputs.cache
+D:\Users\SarepDeveloper\Documents\Blazor\BlazorPeliculas\BlazorPeliculas\Shared\obj\Debug\netstandard2.1\BlazorPeliculas.Shared.AssemblyInfo.cs
+D:\Users\SarepDeveloper\Documents\Blazor\BlazorPeliculas\BlazorPeliculas\Shared\obj\Debug\netstandard2.1\BlazorPeliculas.Shared.csproj.CoreCompileInputs.cache
+D:\Users\SarepDeveloper\Documents\Blazor\BlazorPeliculas\BlazorPeliculas\Shared\obj\Debug\netstandard2.1\BlazorPeliculas.Shared.dll
+D:\Users\SarepDeveloper\Documents\Blazor\BlazorPeliculas\BlazorPeliculas\Shared\obj\Debug\netstandard2.1\BlazorPeliculas.Shared.pdb

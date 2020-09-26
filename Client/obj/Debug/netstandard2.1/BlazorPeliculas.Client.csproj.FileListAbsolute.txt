@@ -1,0 +1,5 @@
+D:\Users\SarepDeveloper\Documents\Blazor\BlazorPeliculas\BlazorPeliculas\Client\obj\Debug\netstandard2.1\BlazorPeliculas.Client.csprojAssemblyReference.cache
+D:\Users\SarepDeveloper\Documents\Blazor\BlazorPeliculas\BlazorPeliculas\Client\obj\Debug\netstandard2.1\BlazorPeliculas.Client.AssemblyInfoInputs.cache
+D:\Users\SarepDeveloper\Documents\Blazor\BlazorPeliculas\BlazorPeliculas\Client\obj\Debug\netstandard2.1\BlazorPeliculas.Client.AssemblyInfo.cs
+D:\Users\SarepDeveloper\Documents\Blazor\BlazorPeliculas\BlazorPeliculas\Client\obj\Debug\netstandard2.1\BlazorPeliculas.Client.csproj.CoreCompileInputs.cache
+D:\Users\SarepDeveloper\Documents\Blazor\BlazorPeliculas\BlazorPeliculas\Client\obj\Debug\netstandard2.1\BlazorPeliculas.Client.RazorComponent.input.cache
